@@ -7,7 +7,8 @@
     <groupId>io.gitlab.leibnizhu</groupId>
     <artifactId>spring-boot-starter-netty</artifactId>
     <packaging>jar</packaging>
-    <version>1.2</version>
+    <version>1.2-starter-2.x</version>
+    <description>适用于springboot 2.x版本</description>
 
     <name>spring-boot-starter-netty</name>
 
